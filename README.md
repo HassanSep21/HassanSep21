@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Hassan Ahmed
 
 🎓 **Data Science Undergraduate @ FAST NUCES**  
-💻 **Aspiring Software Engineer | AI & ML Enthusiast | Problem Solver**  
+💻 **Aspiring Data Scientist | AI & ML Enthusiast | Problem Solver**  
 📍 Islamabad, Pakistan  
 
 ---
