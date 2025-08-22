@@ -44,14 +44,6 @@ I thrive on learning new technologies and working on impactful projects.
 
 ---
 
-## 📊 GitHub Stats
-
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanSep21&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanSep21&layout=compact&theme=tokyonight)  
-
----
-
 ## 🎓 Certifications
 
 - **CS50’s Introduction to Artificial Intelligence with Python** – Harvard University  
