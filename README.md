@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Hassan Ahmed
+# Hey, Hassan here!
 
 🎓 **Data Science Undergraduate @ FAST NUCES**  
 💻 **Aspiring Data Scientist | AI & ML Enthusiast | Problem Solver**  
@@ -6,16 +6,16 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a tech enthusiast with a passion for **AI, Machine Learning, and Data Science**.  
 Currently pursuing my **Bachelor’s in Data Science**, I enjoy building projects that merge **practical problem-solving** with **cutting-edge technology** — from **low-level C implementations** to **deep learning architectures**.  
 
-I thrive on learning new technologies and working on impactful projects.  
+I like learning new technologies and working on fun projects.  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,11 +44,11 @@ I thrive on learning new technologies and working on impactful projects.
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
-- **CS50’s Introduction to Artificial Intelligence with Python** – Harvard University  
+- **CS50’s Artificial Intelligence with Python** – Harvard University  
 - **CS50’s Introduction to Computer Science** – Harvard University  
-- **CS50’s Introduction to Programming Using Python** – Harvard University  
+- **CS50’s Programming Using Python** – Harvard University  
 
 ---
 
