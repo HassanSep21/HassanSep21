@@ -29,6 +29,7 @@ I like learning new technologies and working on fun projects.
 
 **Frameworks & Tools**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=black)
